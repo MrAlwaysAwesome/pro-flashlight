@@ -1,0 +1,12 @@
+{
+  "name": "Pro-Flashlight",
+  "version": "1.0.0",
+  "title": "Pro Flashlight",
+  "author": "MrAlwaysAwesome",
+  "homepage": "https://www.youtube.com/channel/UCG_c0GoUQsOdnITrB6YuQMw",
+  "contact": "https://discord.gg/wNQYyB6",
+  "description": "If you stand still, the flashlight will automatically turn and shine on any entity you select on the map.",
+  "dependencies": ["base >= 0.18"],
+  "factorio_version": "0.18",
+  "license": "GNU AGPLv3"
+} 
